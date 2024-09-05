@@ -50,7 +50,7 @@ Generates Geometry Information from SVGCode
 ## DrawingModeSquare
 ## DrawingModeRectangle
 ## DrawingModeCircle
-- name
+- name (str)
 - handleControlDown
 - handleControlUp
 - handleControlMove
@@ -62,4 +62,14 @@ Generates Geometry Information from SVGCode
 - make
 
 ## FrehandLine
-- verticesCoordinates
+- verticesCoordinates (arr)
+- extend
+
+## Rectangle
+- baseCoordinates (num, num)
+- width (num)
+- height (num)
+- rotation (num)
+- setWidth
+- setHeight
+- setRotation
