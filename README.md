@@ -10,12 +10,12 @@ Note: This project is mainly intended for practicing and experimenting with arch
 - Import createDrawer function
 - Create an instance of Drawer by using createDrawer(<Id of Dom Element>)
 - Instances of Drawer provide following functions which are intended to serve as callbacks for Event Handlers for Control Elements:
-  -- setDrawingModeCreateFreehandLine
-  -- setDrawingModeCreateSquare
-  -- setDrawingModeCreateRectangle
-  -- setDrawingModeCreateCircle
-  -- setDrawingModeRemoveLatest
-  -- exportSVG
-  -- importSVG
+  - setDrawingModeCreateFreehandLine
+  - setDrawingModeCreateSquare
+  - setDrawingModeCreateRectangle
+  - setDrawingModeCreateCircle
+  - setDrawingModeRemoveLatest
+  - exportSVG
+  - importSVG
 
 # classes (overview for dev purposes)
